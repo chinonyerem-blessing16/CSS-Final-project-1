@@ -1,0 +1,100 @@
+.first {
+    background-color: rgb(224, 248, 248);
+    width: 100%;
+    
+}
+.name2{
+    font-size: 30px;
+    font-family:cambria;
+    text-align: center;
+    color: rgb(25, 126, 126);
+}
+.led{
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 80%;
+   height: auto;
+}
+.yyy {
+    color: rgb(25, 126, 126);
+    font-size: 3.5rem;
+    text-align: center;
+    font-family: 'Ephesis', cursive;
+}
+
+.myimg {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   border-radius: 50%;
+}
+.text {
+    color: rgb(25, 126, 126);
+    text-align: center;
+}
+.atext {
+    width: 85%;
+    text-align: center;
+    display: block;
+    margin: auto;
+    font-family: cambria;
+}
+.headd {
+    text-align: center;
+    color: rgb(25, 126, 126);
+}
+.myg {
+    float: right;
+}
+.myg6 {
+    float: right;
+    border-radius:50%; 
+    margin-right:50px;
+}
+.gar {
+    color: rgb(25, 126, 126); 
+}
+.myt {
+    color: rgb(4, 77, 77); 
+    text-align: center;
+    font-weight: bolder;
+}
+.this {
+    text-align: center;
+}
+.but {
+    background-color: rgb(18, 192, 192);
+    color: #fff;
+    border: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 170px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 8px;
+}
+.but:hover {
+    background-color:aqua;
+}
+footer {
+    height: 200px;
+    background-color: rgb(18, 192, 192);
+}
+.flx {
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+}
+.uut {
+    text-decoration: none;
+    color:rgb(25, 126, 126) ;
+
+}
+.iiy {
+    color: #fff;
+    text-align: center;
+    margin-top: 15px;
+}
